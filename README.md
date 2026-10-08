@@ -5,3 +5,4 @@ visualization, Pivot Charts, KPI cards and many more.
 
 # Purpose
 
+# 🔑 Key Insights
