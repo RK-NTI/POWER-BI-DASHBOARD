@@ -8,3 +8,6 @@ Create an interactive dashboard through raw data and find business insights and 
 So that can be made a better business decision. 
 
 # 🔑 Key Insights
+
+
+# 🔍 What I analyzed
