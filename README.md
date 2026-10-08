@@ -4,5 +4,7 @@
 visualization, Pivot Charts, KPI cards and many more.
 
 # Purpose
+Create an interactive dashboard through raw data and find business insights and decision-making.
+So that can be made a better business decision. 
 
 # 🔑 Key Insights
