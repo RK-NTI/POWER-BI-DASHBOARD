@@ -9,5 +9,7 @@ So that can be made a better business decision.
 
 # 🔑 Key Insights
 
+"I developed a Power BI Dashboard designed to solve a critical business problem: the lack of centralized data in managing rapidly growing Sales performance.
+
 
 # 🔍 What I analyzed
