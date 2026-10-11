@@ -18,3 +18,6 @@ So that can be made a better business decision.
 
 
 
+
+<img width="1390" height="755" alt="image" src="https://github.com/user-attachments/assets/3000a7b3-dadd-4ff0-9dd7-813a36d00739" />
+
