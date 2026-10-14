@@ -14,7 +14,13 @@ Create an interactive dashboard through raw data and find business insights and 
 So that can be made a better business decision. 
 
 # 🔑 Key Insights
+Overall Sales Performance: Total actual sales are approximately 18.95M, compared with a total sales target of 19M, indicating that actual sales are slightly below the overall target.
 
+Sales Variance: The dashboard displays a negative sales variance, highlighting a gap between actual sales and the target that requires attention.
+
+Monthly Sales Trends: The monthly clustered column chart compares actual sales with sales targets, helping identify months of strong performance and months where targets were not achieved.
+
+Target Achievement: The dashboard indicates that only 2 months achieved their sales targets
 
 
 
