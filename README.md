@@ -18,6 +18,18 @@ Sales Variance
 Variance Percentage
 
 Number of Months Achieving Sales Targets
+
+# 🛠️ Tools and Technologies
+Microsoft Power BI
+
+Power Query for data transformation
+
+DAX for KPI calculations and sales performance measures
+
+Data visualization and dashboard design
+
+Interactive filters, conditional formatting, and sparklines
+
 # 📌 Project Overview
 This project focuses on analyzing sales performance using an interactive Power BI dashboard. While learning interactive dashboard design, I explored how to transform sales data into meaningful business insights using KPIs, charts, conditional formatting, and interactive filters.
 
@@ -44,7 +56,7 @@ Yummies: 4.65M
 Tempo: 3.81M
 
 
-# 🔍 What I analyzed
+
 
 
 
