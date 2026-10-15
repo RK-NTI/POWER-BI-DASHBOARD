@@ -20,11 +20,17 @@ So that can be made a better business decision.
 
 **Monthly Sales Trends:** The monthly clustered column chart compares actual sales with sales targets, helping identify months of strong performance and months where targets were not achieved.
 
-**Target Achievement:** The dashboard indicates that only 2 months achieved their sales targets.
+**Target Achievement:** The dashboard indicates that only 2 months achieved their sales targets, highlighting an opportunity to improve monthly sales performance.
 
 **Team-Wise Sales Contribution:** The donut chart shows sales contributions from four teams:
 
+Delish: 5.29M
 
+Jucies: 5.20M
+
+Yummies: 4.65M
+
+Tempo: 3.81M
 
 
 # 🔍 What I analyzed
