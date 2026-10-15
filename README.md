@@ -9,9 +9,8 @@ Created KPI cards, multi-dimensional sales visualizations, and dynamic slicers/f
 # 📌 Project Overview
 This project focuses on analyzing sales performance using an interactive Power BI dashboard. While learning interactive dashboard design, I explored how to transform sales data into meaningful business insights using KPIs, charts, conditional formatting, and interactive filters.
 
-# Purpose
-Create an interactive dashboard through raw data and find business insights and decision-making.
-So that can be made a better business decision. 
+# 🚀 Project Outcome
+Create an interactive dashboard through raw data and this dashboard demonstrates how business data can be transformed into actionable insights to support sales monitoring, performance evaluation, and data-driven decision-making.
 
 # 🔑 Key Insights
 **Overall Sales Performance:** Total actual sales are approximately 18.95M, compared with a total sales target of 19M, indicating that actual sales are slightly below the overall target.
