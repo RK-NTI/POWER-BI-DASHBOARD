@@ -55,8 +55,6 @@ Yummies: 4.65M
 
 Tempo: 3.81M
 
-# OUTCUM:
-
 
 
 
