@@ -46,7 +46,7 @@ Create an interactive dashboard through raw data and this dashboard demonstrates
 **Target Achievement:** The dashboard indicates that only 2 months achieved their sales targets, highlighting an opportunity to improve monthly sales performance.
 
 **Team-Wise Sales Contribution:** The donut chart shows sales contributions from four teams:
-
+# Slicer outcome
 Delish: 5.29M
 
 Jucies: 5.20M
