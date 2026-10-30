@@ -1,9 +1,10 @@
 # Power BI Project
 # 📊 Sales Performance Analysis Dashboard
-Developed an interactive Power BI dashboard to analyze Sales Performance.
+• Developed an interactive Power BI dashboard to analyze Sales Performance.
 Created KPI cards, multi-dimensional sales visualizations, and dynamic slicers/filters to analyze business performance, and monthly/yearly sales trends.
 
 • I have recently learn this Sales Data Analysis and find meaningful insights and better business decisions. 
+
 • This is my Power BI project which I developed using POWER BI. I used Power BI features such as Power Query for data cleaning and Pivot Table, Pivot Chart.
 
 # 📈 Dashboard Features
