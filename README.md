@@ -64,6 +64,5 @@ Tempo: 3.81M
 
 
 
-# Dashboard
-
-<img width="1142" height="602" alt="image" src="https://github.com/user-attachments/assets/265cab80-2960-4811-b4bb-5e0be12e6735" /> 
+ 
+<img width="1142" height="602" alt="image" src="https://github.com/user-attachments/assets/265cab80-2960-4811-b4bb-5e0be12e6735" />
